@@ -1,0 +1,15 @@
+{
+  "name": "packalyze-cli-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "publish:packalyze": "packalyze-cli",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "packalyze-cli": "0.0.1"
+  }
+}
